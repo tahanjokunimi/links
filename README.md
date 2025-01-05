@@ -24,3 +24,7 @@ RAG
 [https://youtu.be/GUgUU4MicbE] (https://youtu.be/GUgUU4MicbE)
 [https://codemint-gamma.vercel.app/blog/building-rag-app] (https://codemint-gamma.vercel.app/blog/building-rag-app)
 [https://gmukejohnbaptist.gumroad.com/] (https://gmukejohnbaptist.gumroad.com/)
+
+
+FINETUNING LLM
+[https://youtu.be/jFl5Fewrieo] (https://youtu.be/jFl5Fewrieo)
